@@ -1,1 +1,1 @@
-# compSciEffects
+# Impact of Computer Science Assignment
